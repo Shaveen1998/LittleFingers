@@ -44,17 +44,15 @@ const Navbar = () => {
   return (
     <nav>
       <div className="nav-logo-container">
-        <img src={Logo} alt="" />
+        <img src="https://web.archive.org/web/20220307111822im_/http://littlefingersartstudio.com/images/mb.png" width="220" height="110" alt="" />
       </div>
       <div className="navbar-links-container">
-        <a href="">Home</a>
-        <a href="">About</a>
-        <a href="">Testimonials</a>
-        <a href="">Contact</a>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/testimonial">Testimonials</a>
+        <a href="/contact">Contact</a>
         <a href="">
-          <BsCart2 className="navbar-cart-icon" />
         </a>
-        <button className="primary-button">Bookings Now</button>
       </div>
       <div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />

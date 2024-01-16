@@ -10,7 +10,7 @@ const Footer = () => {
     <div className="footer-wrapper">
       <div className="footer-section-one">
         <div className="footer-logo-container">
-          <img src={Logo} alt="" />
+          <img src="https://web.archive.org/web/20220307111822im_/http://littlefingersartstudio.com/images/mb.png" width="220" height="110" alt="" />
         </div>
         <div className="footer-icons">
           <BsTwitter />
