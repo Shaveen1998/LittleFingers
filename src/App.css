@@ -20,7 +20,7 @@ body {
 }
 
 body {
-  background-color: #f6f6f6;
+  background-color: #1c1b1b;
 }
 
 nav {
@@ -33,9 +33,9 @@ nav {
   display: none;
 }
 .navbar-links-container a {
-  margin-right: 3rem;
+  margin-right: 2rem;
   text-decoration: none;
-  color: black;
+  color: #ffffff;
   font-size: 1.1rem;
   font-weight: 600;
 }
@@ -85,14 +85,14 @@ nav {
 }
 .primary-heading {
   font-size: clamp(2rem, 5vw, 4rem);
-  color: #4c4c4c;
+  color: #ffffff;
   /* line-height: 5rem; */
   max-width: 600px;
 }
 .primary-text {
   font-size: clamp(1rem, 3vw, 1.5rem);
   max-width: 500px;
-  color: #6a6a6a;
+  color: #ffffff;
   margin: 1.5rem 0rem;
 }
 .secondary-button {
