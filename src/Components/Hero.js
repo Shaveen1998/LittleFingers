@@ -1,6 +1,6 @@
 import React from "react";
 import BannerBackground from "../Assets/home-banner-background.png";
-import BannerImage from "../Assets/home-banner-image.png";
+import BannerImage from "../Assets/WhatsApp Image 2024-10-25 at 13.44.03_a82a92ce.jpg";
 import Navbar from "./Navbar";
 
 const Hero = () => {
